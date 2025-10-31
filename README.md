@@ -29,3 +29,4 @@ Want to play with it on your own machine? Follow these steps:
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+And you still need a Google Maps Platform API key.
