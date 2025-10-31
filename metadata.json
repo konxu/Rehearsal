@@ -1,0 +1,7 @@
+{
+  "name": "Rehearsal",
+  "description": "An application for virtually visiting locations and rehearsing real-world conversations in different languages. Users can interact with AI-powered NPCs in scenarios tailored to specific places like cafes, markets, or stations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
