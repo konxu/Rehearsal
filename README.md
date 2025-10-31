@@ -1,14 +1,23 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="900" height="600" alt="GHBanner" src="/3.png" />
 </div>
 
-# Run and deploy your AI Studio app
+# Rehearsal — Practice for the real world
 
-This contains everything you need to run your app locally.
+This repository contains everything you need to explore **Rehearsal** locally or online.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1bYwj6YmPOZI7s2Ob3RkLfMfZsmx1lYC4
+---
 
-## Run Locally
+## 🌐 Quick Online Demo
+
+No setup needed! Check out the app in AI Studio:  
+[View the app](https://ai.studio/apps/drive/1bYwj6YmPOZI7s2Ob3RkLfMfZsmx1lYC4)  
+
+---
+
+## 💻 Run Locally
+
+Want to play with it on your own machine? Follow these steps:
 
 **Prerequisites:**  Node.js
 
