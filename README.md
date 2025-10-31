@@ -12,6 +12,8 @@ This repository contains everything you need to explore **Rehearsal** locally or
 
 No setup needed! Check out the app in AI Studio:  
 [View the app](https://ai.studio/apps/drive/1bYwj6YmPOZI7s2Ob3RkLfMfZsmx1lYC4)  
+You’ll need a Google Maps Platform API key for that.
+If you got confused like me, it will lead you to the page anyway.
 
 ---
 
